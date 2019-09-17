@@ -1,0 +1,9 @@
+﻿  Orggg.cpp
+c:\users\orchestrate\source\repos\orggg\orggg\orggg.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\orchestrate\source\repos\orggg\orggg\orggg.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\orchestrate\source\repos\orggg\orggg\orggg.cpp(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\orchestrate\source\repos\orggg\orggg\orggg.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\orchestrate\source\repos\orggg\orggg\orggg.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\orchestrate\source\repos\orggg\orggg\orggg.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\orchestrate\source\repos\orggg\orggg\orggg.cpp(168): warning C4018: '<': signed/unsigned mismatch
+  Orggg.vcxproj -> C:\Users\orchestrate\source\repos\Orggg\Debug\Orggg.exe
